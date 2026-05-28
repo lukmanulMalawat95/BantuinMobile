@@ -1,0 +1,47 @@
+com.example.bantuin.composeApp-activity-compose-1.13.0-0 /Users/user/.gradle/caches/8.14.3/transforms/028b4f11eb0d5dc1dab5ba55a0955c8b/transformed/activity-compose-1.13.0/res
+com.example.bantuin.composeApp-material-icons-core-release-1 /Users/user/.gradle/caches/8.14.3/transforms/0684a92015596020c7dc5d26754e7c06/transformed/material-icons-core-release/res
+com.example.bantuin.composeApp-customview-poolingcontainer-1.0.0-2 /Users/user/.gradle/caches/8.14.3/transforms/07b1d6cfa1ca3ae49c37668e7b7f72cf/transformed/customview-poolingcontainer-1.0.0/res
+com.example.bantuin.composeApp-core-ktx-1.18.0-3 /Users/user/.gradle/caches/8.14.3/transforms/24c49eeb7197e0f331ebad822161a18f/transformed/core-ktx-1.18.0/res
+com.example.bantuin.composeApp-ui-backhandler-debug-4 /Users/user/.gradle/caches/8.14.3/transforms/286d48aa53169ec4ea7364f7e4e13022/transformed/ui-backhandler-debug/res
+com.example.bantuin.composeApp-material-1.0.0-5 /Users/user/.gradle/caches/8.14.3/transforms/2edde491ab232b2b62503865fc5aacd2/transformed/material-1.0.0/res
+com.example.bantuin.composeApp-savedstate-6 /Users/user/.gradle/caches/8.14.3/transforms/30b905e859320478896685297a17e835/transformed/savedstate/res
+com.example.bantuin.composeApp-navigationevent-7 /Users/user/.gradle/caches/8.14.3/transforms/3140a8be0b9c7c7dfbcc0d935716572d/transformed/navigationevent/res
+com.example.bantuin.composeApp-ui-graphics-8 /Users/user/.gradle/caches/8.14.3/transforms/336b23b79ee2031e88c1274b595be132/transformed/ui-graphics/res
+com.example.bantuin.composeApp-lifecycle-livedata-core-2.10.0-9 /Users/user/.gradle/caches/8.14.3/transforms/3d733cf518a84be2890b890ed537226a/transformed/lifecycle-livedata-core-2.10.0/res
+com.example.bantuin.composeApp-lifecycle-runtime-10 /Users/user/.gradle/caches/8.14.3/transforms/3dbeb68a3424a90480a311d68fa795c7/transformed/lifecycle-runtime/res
+com.example.bantuin.composeApp-startup-runtime-1.2.0-11 /Users/user/.gradle/caches/8.14.3/transforms/3f831da806b751cad1cb1b2060258b99/transformed/startup-runtime-1.2.0/res
+com.example.bantuin.composeApp-lifecycle-livedata-2.10.0-12 /Users/user/.gradle/caches/8.14.3/transforms/41e453469e36616eba559785f2c6dbf2/transformed/lifecycle-livedata-2.10.0/res
+com.example.bantuin.composeApp-annotation-experimental-1.4.1-13 /Users/user/.gradle/caches/8.14.3/transforms/45cdd98573931b5d747adba3d0cd76b2/transformed/annotation-experimental-1.4.1/res
+com.example.bantuin.composeApp-transition-1.6.0-14 /Users/user/.gradle/caches/8.14.3/transforms/4741c32a6ba4df4af58b543cdd66364a/transformed/transition-1.6.0/res
+com.example.bantuin.composeApp-lifecycle-viewmodel-15 /Users/user/.gradle/caches/8.14.3/transforms/4924d8698125286d88ccc8ba30505433/transformed/lifecycle-viewmodel/res
+com.example.bantuin.composeApp-material-icons-extended-release-16 /Users/user/.gradle/caches/8.14.3/transforms/49f1eebf1b3ae79a70184a19340761a8/transformed/material-icons-extended-release/res
+com.example.bantuin.composeApp-lifecycle-process-2.10.0-17 /Users/user/.gradle/caches/8.14.3/transforms/4bd3f5cdd965b120cc3621bdbffe96a8/transformed/lifecycle-process-2.10.0/res
+com.example.bantuin.composeApp-lifecycle-viewmodel-ktx-2.10.0-18 /Users/user/.gradle/caches/8.14.3/transforms/5122541ca0fdca2c04fcf40717428eb8/transformed/lifecycle-viewmodel-ktx-2.10.0/res
+com.example.bantuin.composeApp-material3-19 /Users/user/.gradle/caches/8.14.3/transforms/5eb70c0c400fe69d48b47cd4418cc83e/transformed/material3/res
+com.example.bantuin.composeApp-graphics-path-1.0.1-20 /Users/user/.gradle/caches/8.14.3/transforms/7b0bbb1caa0f1bfe5286cea4ccca022d/transformed/graphics-path-1.0.1/res
+com.example.bantuin.composeApp-window-1.5.0-21 /Users/user/.gradle/caches/8.14.3/transforms/7c63c3a09f12eee4c8d2c840413e242e/transformed/window-1.5.0/res
+com.example.bantuin.composeApp-core-1.18.0-22 /Users/user/.gradle/caches/8.14.3/transforms/7df9985e010320f21e230836b5747abf/transformed/core-1.18.0/res
+com.example.bantuin.composeApp-profileinstaller-1.4.0-23 /Users/user/.gradle/caches/8.14.3/transforms/a46b1984a183e8e10162d24cd244005a/transformed/profileinstaller-1.4.0/res
+com.example.bantuin.composeApp-foundation-24 /Users/user/.gradle/caches/8.14.3/transforms/ab0948054d579d4fb448ceee6ac62a97/transformed/foundation/res
+com.example.bantuin.composeApp-lifecycle-livedata-core-ktx-2.10.0-25 /Users/user/.gradle/caches/8.14.3/transforms/b311d06c20edb8d5157be0f3dc2661fe/transformed/lifecycle-livedata-core-ktx-2.10.0/res
+com.example.bantuin.composeApp-ui-26 /Users/user/.gradle/caches/8.14.3/transforms/ba60620b138a3d80d230beae23902f34/transformed/ui/res
+com.example.bantuin.composeApp-runtime-saveable-27 /Users/user/.gradle/caches/8.14.3/transforms/be509357e7a4e80fa7495fd12f62f5ae/transformed/runtime-saveable/res
+com.example.bantuin.composeApp-activity-ktx-1.13.0-28 /Users/user/.gradle/caches/8.14.3/transforms/bfddb461ec585825841f24796d5bf4a7/transformed/activity-ktx-1.13.0/res
+com.example.bantuin.composeApp-ui-tooling-29 /Users/user/.gradle/caches/8.14.3/transforms/c615785b058e4d4750088d0530a3aedc/transformed/ui-tooling/res
+com.example.bantuin.composeApp-emoji2-1.4.0-30 /Users/user/.gradle/caches/8.14.3/transforms/c98ddeae791febec5584dcc740f08d9e/transformed/emoji2-1.4.0/res
+com.example.bantuin.composeApp-savedstate-ktx-1.4.0-31 /Users/user/.gradle/caches/8.14.3/transforms/d557c6603ddcba3b1549848549bb0778/transformed/savedstate-ktx-1.4.0/res
+com.example.bantuin.composeApp-ui-text-32 /Users/user/.gradle/caches/8.14.3/transforms/dbb78959083833d0677871ec86aa4d9b/transformed/ui-text/res
+com.example.bantuin.composeApp-core-viewtree-1.0.0-33 /Users/user/.gradle/caches/8.14.3/transforms/dd30ad43709c1cc336e2881fdcd5de12/transformed/core-viewtree-1.0.0/res
+com.example.bantuin.composeApp-tracing-1.2.0-34 /Users/user/.gradle/caches/8.14.3/transforms/e803030a039268fe6084f9478d5a29c4/transformed/tracing-1.2.0/res
+com.example.bantuin.composeApp-activity-1.13.0-35 /Users/user/.gradle/caches/8.14.3/transforms/f55488728315995f25a0bfdfebd6a557/transformed/activity-1.13.0/res
+com.example.bantuin.composeApp-core-runtime-2.2.0-36 /Users/user/.gradle/caches/8.14.3/transforms/ffa0a956b51fff0f8b9d7652d3925f30/transformed/core-runtime-2.2.0/res
+com.example.bantuin.composeApp-pngs-37 /Users/user/Lukman File/Project/Kotlin Multiplatform/Bantuin/composeApp/build/generated/res/pngs/debug
+com.example.bantuin.composeApp-resValues-38 /Users/user/Lukman File/Project/Kotlin Multiplatform/Bantuin/composeApp/build/generated/res/resValues/debug
+com.example.bantuin.composeApp-packageDebugResources-39 /Users/user/Lukman File/Project/Kotlin Multiplatform/Bantuin/composeApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.bantuin.composeApp-packageDebugResources-40 /Users/user/Lukman File/Project/Kotlin Multiplatform/Bantuin/composeApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.bantuin.composeApp-debug-41 /Users/user/Lukman File/Project/Kotlin Multiplatform/Bantuin/composeApp/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.bantuin.composeApp-androidDebug-42 /Users/user/Lukman File/Project/Kotlin Multiplatform/Bantuin/composeApp/src/androidDebug/res
+com.example.bantuin.composeApp-androidMain-43 /Users/user/Lukman File/Project/Kotlin Multiplatform/Bantuin/composeApp/src/androidMain/res
+com.example.bantuin.composeApp-debug-44 /Users/user/Lukman File/Project/Kotlin Multiplatform/Bantuin/composeApp/src/debug/res
+com.example.bantuin.composeApp-main-45 /Users/user/Lukman File/Project/Kotlin Multiplatform/Bantuin/composeApp/src/main/res
+com.example.bantuin.composeApp-debug-46 /Users/user/Lukman File/Project/Kotlin Multiplatform/Bantuin/shared/build/intermediates/packaged_res/debug/packageDebugResources
